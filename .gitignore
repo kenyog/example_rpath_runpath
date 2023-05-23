@@ -1,0 +1,3 @@
+*.o
+*.so
+uselib/uselib_*
